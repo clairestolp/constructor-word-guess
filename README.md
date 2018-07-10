@@ -6,10 +6,6 @@ This homework assignment is **optional**.
 
 In this week's assignment, you will create a Word Guess command-line game using constructor functions.
 
-### Submission on BCS
-
-* Please submit the link to the Github Repository!
-
 ## Instructions
 
 The completed game should meet the following criteria:
@@ -50,28 +46,3 @@ The completed game should meet the following criteria:
 
 6. **HINT:** If you name your letter's display function `toString`, JavaScript will call that function automatically whenever casting that object to a string (check out this example: https://jsbin.com/facawetume/edit?js,console)
 
-- - -
-
-### Notes
-
-* Since this assignment is a command-line application, you don't need to deploy it anywhere. You will, however, be required to upload it to Github.
-
-* Remember to include a `package.json` file containing your project dependencies in your Github repo!
-
-### Reminder: Submission on BCS
-
-* Please submit the link to the Github Repository!
-
-### Minimum Requirements
-
-Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Adding a README.md as well as adding this homework to your portfolio are required as well and more information can be found below.
-
-- - -
-
-### Create a README.md
-
-Add a `README.md` to your repository describing the project. Here are some resources for creating your `README.md`. Here are some resources to help you along the way:
-
-* [About READMEs](https://help.github.com/articles/about-readmes/)
-
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
