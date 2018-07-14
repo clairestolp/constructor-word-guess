@@ -1,0 +1,24 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "A CLI hangman game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairestolp/constructor-word-guess.git"
+  },
+  "author": "Claire Stolp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clairestolp/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/clairestolp/constructor-word-guess#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.0.0",
+    "request": "^2.87.0"
+  }
+}
