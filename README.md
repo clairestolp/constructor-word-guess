@@ -1,5 +1,16 @@
 # Advanced JavaScript Assignment: Constructor Word Guess
 
+A CLI word guess game that generates a problem by accessing themoviedb API.
+
+### Technologies Used
+* HTML/CSS/JavaScript
+* NodeJS
+* Modules
+  * Inquirer
+  * Request
+  * Chalk
+
+
 ### Overview
 
 This homework assignment is **optional**.
